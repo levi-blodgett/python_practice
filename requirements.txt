@@ -1,0 +1,6 @@
+black>23
+isort>5
+pylint>2
+pylama[eradicate,mypy,pylint]>8
+pip-tools>7
+flask>3
